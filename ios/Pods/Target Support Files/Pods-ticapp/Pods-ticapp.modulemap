@@ -1,0 +1,6 @@
+framework module Pods_ticapp {
+  umbrella header "Pods-ticapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
